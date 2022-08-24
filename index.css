@@ -137,7 +137,11 @@ border-top-right-radius: 10px;
   } 
   .juice{
     width: 100% !important;
-    
+  
+  }
+  .copyright{
+    font-size: 10px;
+    padding-bottom: 10px;
   }
 }
 
